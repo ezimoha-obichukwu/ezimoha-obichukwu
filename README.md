@@ -17,7 +17,7 @@ I live in Lagos, Nigeria 🏫. I developed myself on the web. I am currently lea
 - 🌱 I’m currently learning Python, Django.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer/Developer, Python Developer, Backend Developer (Intern or Junior level).
-- 📫 You can contact me by emailing [![Contact](https://img.shields.io/badge/-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ezimohaobichukwu17@gmail.com).
+- 📫 You can contact me by emailing [![Contact](https://img.shields.io/badge/-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.ezimohaobichukwu001@gmail.com).
 
 ## 📈 Github Stats
 
